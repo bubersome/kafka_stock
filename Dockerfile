@@ -53,5 +53,6 @@ RUN pip install -r kafka_stock/requirements.txt
 
 RUN sudo apt-get install -y tmux
 ENV NAME kafka_stock
+RUN
 
 
